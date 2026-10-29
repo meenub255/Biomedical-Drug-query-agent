@@ -1,0 +1,1117 @@
+[
+  {
+    "drug_name": "Metformin",
+    "drug_class": "Biguanide",
+    "indications": [
+      "Metabolic Syndrome",
+      "Polycystic Ovary Syndrome",
+      "Type 2 Diabetes Mellitus"
+    ],
+    "common_symptoms_treated": [
+      "Acanthosis Nigricans",
+      "Hyperglycemia",
+      "Insulin Resistance",
+      "Polyuria"
+    ],
+    "key_side_effects": [
+      "Gastrointestinal Upset",
+      "Lactic Acidosis",
+      "Metallic Taste",
+      "Vitamin B12 Deficiency"
+    ],
+    "mechanism_description": "Metformin belongs to the class of Biguanide. Mechanism of Action: Inhibits hepatic gluconeogenesis via AMP-activated protein kinase (AMPK) activation and increases peripheral insulin sensitivity.",
+    "pharmacology_summary": "### Monograph: Metformin (Biguanide)\n- **Clinical Indications:** Metabolic Syndrome, Polycystic Ovary Syndrome, Type 2 Diabetes Mellitus.\n- **Target Symptoms:** Acanthosis Nigricans, Hyperglycemia, Insulin Resistance, Polyuria.\n- **Pharmacological Action & Pathway:** Inhibits hepatic gluconeogenesis via AMP-activated protein kinase (AMPK) activation and increases peripheral insulin sensitivity.\n- **Known Adverse Reactions & Warnings:** Gastrointestinal Upset, Lactic Acidosis, Metallic Taste, Vitamin B12 Deficiency.\n- **Evidence & Citations:** FDA-NDA-020357; PMID:31548545; PMID:17924864; PMID:26900641; PMID:28938445.",
+    "citations": [
+      "FDA-NDA-020357; PMID:31548545",
+      "PMID:17924864",
+      "PMID:26900641",
+      "PMID:28938445"
+    ]
+  },
+  {
+    "drug_name": "Semaglutide",
+    "drug_class": "GLP-1 Receptor Agonist",
+    "indications": [
+      "Cardiovascular Disease in Diabetics",
+      "Obesity",
+      "Type 2 Diabetes Mellitus"
+    ],
+    "common_symptoms_treated": [
+      "Arterial Stiffness",
+      "Excess Adiposity",
+      "Hyperglycemia",
+      "Hyperphagia"
+    ],
+    "key_side_effects": [
+      "Constipation",
+      "Nausea",
+      "Pancreatitis Risk",
+      "Vomiting"
+    ],
+    "mechanism_description": "Semaglutide belongs to the class of GLP-1 Receptor Agonist. Mechanism of Action: Selectively binds and activates GLP-1 receptors, stimulating glucose-dependent insulin secretion and suppressing glucagon.",
+    "pharmacology_summary": "### Monograph: Semaglutide (GLP-1 Receptor Agonist)\n- **Clinical Indications:** Cardiovascular Disease in Diabetics, Obesity, Type 2 Diabetes Mellitus.\n- **Target Symptoms:** Arterial Stiffness, Excess Adiposity, Hyperglycemia, Hyperphagia.\n- **Pharmacological Action & Pathway:** Selectively binds and activates GLP-1 receptors, stimulating glucose-dependent insulin secretion and suppressing glucagon.\n- **Known Adverse Reactions & Warnings:** Constipation, Nausea, Pancreatitis Risk, Vomiting.\n- **Evidence & Citations:** FDA-BLA-125697; FDA-BLA-125697; PMID:34125345; PMID:33567185; PMID:38060356.",
+    "citations": [
+      "FDA-BLA-125697",
+      "FDA-BLA-125697; PMID:34125345",
+      "PMID:33567185",
+      "PMID:38060356"
+    ]
+  },
+  {
+    "drug_name": "Tirzepatide",
+    "drug_class": "Dual GIP and GLP-1 Receptor Agonist",
+    "indications": [
+      "Obesity",
+      "Type 2 Diabetes Mellitus"
+    ],
+    "common_symptoms_treated": [
+      "Excess Adiposity",
+      "Hyperglycemia"
+    ],
+    "key_side_effects": [
+      "Decreased Appetite",
+      "Diarrhea"
+    ],
+    "mechanism_description": "Tirzepatide belongs to the class of Dual GIP and GLP-1 Receptor Agonist. Mechanism of Action: Dual agonism of GIP and GLP-1 receptors synergistically enhances beta-cell insulin secretion and reduces glucagon levels.",
+    "pharmacology_summary": "### Monograph: Tirzepatide (Dual GIP and GLP-1 Receptor Agonist)\n- **Clinical Indications:** Obesity, Type 2 Diabetes Mellitus.\n- **Target Symptoms:** Excess Adiposity, Hyperglycemia.\n- **Pharmacological Action & Pathway:** Dual agonism of GIP and GLP-1 receptors synergistically enhances beta-cell insulin secretion and reduces glucagon levels.\n- **Known Adverse Reactions & Warnings:** Decreased Appetite, Diarrhea.\n- **Evidence & Citations:** FDA-NDA-215866; PMID:34170797; PMID:35658024.",
+    "citations": [
+      "FDA-NDA-215866; PMID:34170797",
+      "PMID:35658024"
+    ]
+  },
+  {
+    "drug_name": "Empagliflozin",
+    "drug_class": "SGLT2 Inhibitor",
+    "indications": [
+      "Chronic Kidney Disease",
+      "Heart Failure with Reduced Ejection Fraction",
+      "Type 2 Diabetes Mellitus"
+    ],
+    "common_symptoms_treated": [
+      "Dyspnea",
+      "Hyperglycemia",
+      "Proteinuria"
+    ],
+    "key_side_effects": [
+      "Genital Mycotic Infections",
+      "Hypotension",
+      "Urinary Tract Infection"
+    ],
+    "mechanism_description": "Empagliflozin belongs to the class of SGLT2 Inhibitor. Mechanism of Action: Inhibits sodium-glucose cotransporter-2 (SGLT2) in proximal renal tubules, inducing urinary excretion of glucose.",
+    "pharmacology_summary": "### Monograph: Empagliflozin (SGLT2 Inhibitor)\n- **Clinical Indications:** Chronic Kidney Disease, Heart Failure with Reduced Ejection Fraction, Type 2 Diabetes Mellitus.\n- **Target Symptoms:** Dyspnea, Hyperglycemia, Proteinuria.\n- **Pharmacological Action & Pathway:** Inhibits sodium-glucose cotransporter-2 (SGLT2) in proximal renal tubules, inducing urinary excretion of glucose.\n- **Known Adverse Reactions & Warnings:** Genital Mycotic Infections, Hypotension, Urinary Tract Infection.\n- **Evidence & Citations:** FDA-NDA-204629; PMID:26378978; PMID:32865377; PMID:36331190.",
+    "citations": [
+      "FDA-NDA-204629; PMID:26378978",
+      "PMID:32865377",
+      "PMID:36331190"
+    ]
+  },
+  {
+    "drug_name": "Dapagliflozin",
+    "drug_class": "SGLT2 Inhibitor",
+    "indications": [
+      "Chronic Kidney Disease",
+      "Heart Failure with Preserved Ejection Fraction",
+      "Type 2 Diabetes Mellitus"
+    ],
+    "common_symptoms_treated": [
+      "Declining eGFR",
+      "Exercise Intolerance",
+      "Glucosuria"
+    ],
+    "key_side_effects": [
+      "Euglycemic DKA",
+      "Polyuria",
+      "Volume Depletion"
+    ],
+    "mechanism_description": "Dapagliflozin belongs to the class of SGLT2 Inhibitor. Mechanism of Action: Blocks proximal tubule glucose reabsorption independently of insulin secretion.",
+    "pharmacology_summary": "### Monograph: Dapagliflozin (SGLT2 Inhibitor)\n- **Clinical Indications:** Chronic Kidney Disease, Heart Failure with Preserved Ejection Fraction, Type 2 Diabetes Mellitus.\n- **Target Symptoms:** Declining eGFR, Exercise Intolerance, Glucosuria.\n- **Pharmacological Action & Pathway:** Blocks proximal tubule glucose reabsorption independently of insulin secretion.\n- **Known Adverse Reactions & Warnings:** Euglycemic DKA, Polyuria, Volume Depletion.\n- **Evidence & Citations:** FDA-NDA-202293; PMID:24072873; PMID:32970396; PMID:36027572.",
+    "citations": [
+      "FDA-NDA-202293; PMID:24072873",
+      "PMID:32970396",
+      "PMID:36027572"
+    ]
+  },
+  {
+    "drug_name": "Sitagliptin",
+    "drug_class": "DPP-4 Inhibitor",
+    "indications": [
+      "Type 2 Diabetes Mellitus"
+    ],
+    "common_symptoms_treated": [
+      "Hyperglycemia",
+      "Postprandial Hyperglycemia"
+    ],
+    "key_side_effects": [
+      "Joint Pain",
+      "Nasopharyngitis"
+    ],
+    "mechanism_description": "Sitagliptin belongs to the class of DPP-4 Inhibitor. Mechanism of Action: Inhibits dipeptidyl peptidase-4 (DPP-4) degradation of endogenous incretins (GLP-1 and GIP).",
+    "pharmacology_summary": "### Monograph: Sitagliptin (DPP-4 Inhibitor)\n- **Clinical Indications:** Type 2 Diabetes Mellitus.\n- **Target Symptoms:** Hyperglycemia, Postprandial Hyperglycemia.\n- **Pharmacological Action & Pathway:** Inhibits dipeptidyl peptidase-4 (DPP-4) degradation of endogenous incretins (GLP-1 and GIP).\n- **Known Adverse Reactions & Warnings:** Joint Pain, Nasopharyngitis.\n- **Evidence & Citations:** FDA-NDA-021995; PMID:17003251; PMID:26053366.",
+    "citations": [
+      "FDA-NDA-021995; PMID:17003251",
+      "PMID:26053366"
+    ]
+  },
+  {
+    "drug_name": "Insulin Glargine",
+    "drug_class": "Long-Acting Basal Insulin",
+    "indications": [
+      "Type 1 Diabetes Mellitus",
+      "Type 2 Diabetes Mellitus"
+    ],
+    "common_symptoms_treated": [
+      "Fasting Hyperglycemia",
+      "Severe Hyperglycemia"
+    ],
+    "key_side_effects": [
+      "Hypoglycemia",
+      "Lipodystrophy"
+    ],
+    "mechanism_description": "Insulin Glargine belongs to the class of Long-Acting Basal Insulin. Mechanism of Action: Forms microprecipitates in subcutaneous tissue providing flat, peakless 24-hour basal insulin profile.",
+    "pharmacology_summary": "### Monograph: Insulin Glargine (Long-Acting Basal Insulin)\n- **Clinical Indications:** Type 1 Diabetes Mellitus, Type 2 Diabetes Mellitus.\n- **Target Symptoms:** Fasting Hyperglycemia, Severe Hyperglycemia.\n- **Pharmacological Action & Pathway:** Forms microprecipitates in subcutaneous tissue providing flat, peakless 24-hour basal insulin profile.\n- **Known Adverse Reactions & Warnings:** Hypoglycemia, Lipodystrophy.\n- **Evidence & Citations:** FDA-BLA-021081; PMID:10868846; PMID:15616223.",
+    "citations": [
+      "FDA-BLA-021081; PMID:10868846",
+      "PMID:15616223"
+    ]
+  },
+  {
+    "drug_name": "Glipizide",
+    "drug_class": "Second-Generation Sulfonylurea",
+    "indications": [
+      "Type 2 Diabetes Mellitus"
+    ],
+    "common_symptoms_treated": [
+      "Hyperglycemia",
+      "Polyuria"
+    ],
+    "key_side_effects": [
+      "Hypoglycemia",
+      "Weight Gain"
+    ],
+    "mechanism_description": "Glipizide belongs to the class of Second-Generation Sulfonylurea. Mechanism of Action: Closes ATP-sensitive potassium channels in pancreatic beta cells, triggering membrane depolarization and insulin release.",
+    "pharmacology_summary": "### Monograph: Glipizide (Second-Generation Sulfonylurea)\n- **Clinical Indications:** Type 2 Diabetes Mellitus.\n- **Target Symptoms:** Hyperglycemia, Polyuria.\n- **Pharmacological Action & Pathway:** Closes ATP-sensitive potassium channels in pancreatic beta cells, triggering membrane depolarization and insulin release.\n- **Known Adverse Reactions & Warnings:** Hypoglycemia, Weight Gain.\n- **Evidence & Citations:** FDA-NDA-017783; PMID:2661845; PMID:6219806.",
+    "citations": [
+      "FDA-NDA-017783; PMID:2661845",
+      "PMID:6219806"
+    ]
+  },
+  {
+    "drug_name": "Lisinopril",
+    "drug_class": "ACE Inhibitor",
+    "indications": [
+      "Congestive Heart Failure",
+      "Diabetic Nephropathy",
+      "Essential Hypertension"
+    ],
+    "common_symptoms_treated": [
+      "Albuminuria",
+      "Elevated Blood Pressure",
+      "Peripheral Edema"
+    ],
+    "key_side_effects": [
+      "Angioedema",
+      "Dry Cough",
+      "Hyperkalemia"
+    ],
+    "mechanism_description": "Lisinopril belongs to the class of ACE Inhibitor. Mechanism of Action: Competitively inhibits angiotensin-converting enzyme, preventing conversion of angiotensin I to angiotensin II and degrading bradykinin.",
+    "pharmacology_summary": "### Monograph: Lisinopril (ACE Inhibitor)\n- **Clinical Indications:** Congestive Heart Failure, Diabetic Nephropathy, Essential Hypertension.\n- **Target Symptoms:** Albuminuria, Elevated Blood Pressure, Peripheral Edema.\n- **Pharmacological Action & Pathway:** Competitively inhibits angiotensin-converting enzyme, preventing conversion of angiotensin I to angiotensin II and degrading bradykinin.\n- **Known Adverse Reactions & Warnings:** Angioedema, Dry Cough, Hyperkalemia.\n- **Evidence & Citations:** FDA-NDA-019777; PMID:2743129; PMID:10587334; PMID:8247036.",
+    "citations": [
+      "FDA-NDA-019777; PMID:2743129",
+      "PMID:10587334",
+      "PMID:8247036"
+    ]
+  },
+  {
+    "drug_name": "Losartan",
+    "drug_class": "Angiotensin II Receptor Blocker (ARB)",
+    "indications": [
+      "Congestive Heart Failure",
+      "Diabetic Nephropathy",
+      "Essential Hypertension"
+    ],
+    "common_symptoms_treated": [
+      "Dyspnea on Exertion",
+      "Elevated Blood Pressure",
+      "Proteinuria"
+    ],
+    "key_side_effects": [
+      "Dizziness",
+      "Hyperkalemia",
+      "Hypotension"
+    ],
+    "mechanism_description": "Losartan belongs to the class of Angiotensin II Receptor Blocker (ARB). Mechanism of Action: Blocks the binding of angiotensin II to AT1 receptors in vascular smooth muscle and adrenal gland.",
+    "pharmacology_summary": "### Monograph: Losartan (Angiotensin II Receptor Blocker (ARB))\n- **Clinical Indications:** Congestive Heart Failure, Diabetic Nephropathy, Essential Hypertension.\n- **Target Symptoms:** Dyspnea on Exertion, Elevated Blood Pressure, Proteinuria.\n- **Pharmacological Action & Pathway:** Blocks the binding of angiotensin II to AT1 receptors in vascular smooth muscle and adrenal gland.\n- **Known Adverse Reactions & Warnings:** Dizziness, Hyperkalemia, Hypotension.\n- **Evidence & Citations:** FDA-NDA-020386; PMID:7783335; PMID:10609816; PMID:11565518.",
+    "citations": [
+      "FDA-NDA-020386; PMID:7783335",
+      "PMID:10609816",
+      "PMID:11565518"
+    ]
+  },
+  {
+    "drug_name": "Amlodipine",
+    "drug_class": "Dihydropyridine Calcium Channel Blocker",
+    "indications": [
+      "Chronic Stable Angina",
+      "Essential Hypertension",
+      "Vasospastic Angina"
+    ],
+    "common_symptoms_treated": [
+      "Chest Pain",
+      "Elevated Blood Pressure",
+      "Resting Angina"
+    ],
+    "key_side_effects": [
+      "Flushing",
+      "Headache",
+      "Peripheral Edema"
+    ],
+    "mechanism_description": "Amlodipine belongs to the class of Dihydropyridine Calcium Channel Blocker. Mechanism of Action: Inhibits transmembrane influx of extracellular calcium ions across myocardial and vascular smooth muscle membranes.",
+    "pharmacology_summary": "### Monograph: Amlodipine (Dihydropyridine Calcium Channel Blocker)\n- **Clinical Indications:** Chronic Stable Angina, Essential Hypertension, Vasospastic Angina.\n- **Target Symptoms:** Chest Pain, Elevated Blood Pressure, Resting Angina.\n- **Pharmacological Action & Pathway:** Inhibits transmembrane influx of extracellular calcium ions across myocardial and vascular smooth muscle membranes.\n- **Known Adverse Reactions & Warnings:** Flushing, Headache, Peripheral Edema.\n- **Evidence & Citations:** FDA-NDA-019787; PMID:2528773; PMID:1936306; PMID:7523171.",
+    "citations": [
+      "FDA-NDA-019787; PMID:2528773",
+      "PMID:1936306",
+      "PMID:7523171"
+    ]
+  },
+  {
+    "drug_name": "Atorvastatin",
+    "drug_class": "HMG-CoA Reductase Inhibitor (Statin)",
+    "indications": [
+      "Atherosclerotic Cardiovascular Disease",
+      "Coronary Artery Disease",
+      "Hypercholesterolemia"
+    ],
+    "common_symptoms_treated": [
+      "Angina Pectoris",
+      "Elevated LDL-C",
+      "Vascular Plaque"
+    ],
+    "key_side_effects": [
+      "Elevated Transaminases",
+      "Myalgia",
+      "Rhabdomyolysis Risk"
+    ],
+    "mechanism_description": "Atorvastatin belongs to the class of HMG-CoA Reductase Inhibitor (Statin). Mechanism of Action: Competitively inhibits 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase, upregulating hepatic LDL receptors.",
+    "pharmacology_summary": "### Monograph: Atorvastatin (HMG-CoA Reductase Inhibitor (Statin))\n- **Clinical Indications:** Atherosclerotic Cardiovascular Disease, Coronary Artery Disease, Hypercholesterolemia.\n- **Target Symptoms:** Angina Pectoris, Elevated LDL-C, Vascular Plaque.\n- **Pharmacological Action & Pathway:** Competitively inhibits 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase, upregulating hepatic LDL receptors.\n- **Known Adverse Reactions & Warnings:** Elevated Transaminases, Myalgia, Rhabdomyolysis Risk.\n- **Evidence & Citations:** FDA-NDA-020702; PMID:9537248; PMID:11252182; PMID:15024479.",
+    "citations": [
+      "FDA-NDA-020702; PMID:9537248",
+      "PMID:11252182",
+      "PMID:15024479"
+    ]
+  },
+  {
+    "drug_name": "Rosuvastatin",
+    "drug_class": "HMG-CoA Reductase Inhibitor (Statin)",
+    "indications": [
+      "Atherosclerotic Cardiovascular Disease",
+      "Hypercholesterolemia"
+    ],
+    "common_symptoms_treated": [
+      "Elevated LDL-C",
+      "Elevated hs-CRP"
+    ],
+    "key_side_effects": [
+      "Myalgia",
+      "Proteinuria"
+    ],
+    "mechanism_description": "Rosuvastatin belongs to the class of HMG-CoA Reductase Inhibitor (Statin). Mechanism of Action: Hydrophilic statin with high selectivity for hepatic HMG-CoA reductase and low passive membrane permeability in muscle.",
+    "pharmacology_summary": "### Monograph: Rosuvastatin (HMG-CoA Reductase Inhibitor (Statin))\n- **Clinical Indications:** Atherosclerotic Cardiovascular Disease, Hypercholesterolemia.\n- **Target Symptoms:** Elevated LDL-C, Elevated hs-CRP.\n- **Pharmacological Action & Pathway:** Hydrophilic statin with high selectivity for hepatic HMG-CoA reductase and low passive membrane permeability in muscle.\n- **Known Adverse Reactions & Warnings:** Myalgia, Proteinuria.\n- **Evidence & Citations:** FDA-NDA-021366; PMID:14564343; PMID:18997196.",
+    "citations": [
+      "FDA-NDA-021366; PMID:14564343",
+      "PMID:18997196"
+    ]
+  },
+  {
+    "drug_name": "Metoprolol",
+    "drug_class": "Beta-1 Selective Adrenergic Antagonist",
+    "indications": [
+      "Angina Pectoris",
+      "Essential Hypertension",
+      "Heart Failure with Reduced Ejection Fraction"
+    ],
+    "common_symptoms_treated": [
+      "Elevated Blood Pressure",
+      "Exertional Chest Tightness",
+      "Tachycardia"
+    ],
+    "key_side_effects": [
+      "Bradycardia",
+      "Erectile Dysfunction",
+      "Fatigue"
+    ],
+    "mechanism_description": "Metoprolol belongs to the class of Beta-1 Selective Adrenergic Antagonist. Mechanism of Action: Selectively antagonizes beta-1 adrenergic receptors in cardiac tissue, reducing heart rate and cardiac output.",
+    "pharmacology_summary": "### Monograph: Metoprolol (Beta-1 Selective Adrenergic Antagonist)\n- **Clinical Indications:** Angina Pectoris, Essential Hypertension, Heart Failure with Reduced Ejection Fraction.\n- **Target Symptoms:** Elevated Blood Pressure, Exertional Chest Tightness, Tachycardia.\n- **Pharmacological Action & Pathway:** Selectively antagonizes beta-1 adrenergic receptors in cardiac tissue, reducing heart rate and cardiac output.\n- **Known Adverse Reactions & Warnings:** Bradycardia, Erectile Dysfunction, Fatigue.\n- **Evidence & Citations:** FDA-NDA-019974; PMID:6337583; PMID:10376614; PMID:3890886.",
+    "citations": [
+      "FDA-NDA-019974; PMID:6337583",
+      "PMID:10376614",
+      "PMID:3890886"
+    ]
+  },
+  {
+    "drug_name": "Carvedilol",
+    "drug_class": "Nonselective Beta and Alpha-1 Blocker",
+    "indications": [
+      "Congestive Heart Failure",
+      "Essential Hypertension"
+    ],
+    "common_symptoms_treated": [
+      "Dyspnea on Exertion",
+      "Elevated Blood Pressure"
+    ],
+    "key_side_effects": [
+      "Dizziness",
+      "Orthostatic Hypotension"
+    ],
+    "mechanism_description": "Carvedilol belongs to the class of Nonselective Beta and Alpha-1 Blocker. Mechanism of Action: Combines nonselective beta-adrenergic blockade with alpha-1 receptor-mediated peripheral vasodilation.",
+    "pharmacology_summary": "### Monograph: Carvedilol (Nonselective Beta and Alpha-1 Blocker)\n- **Clinical Indications:** Congestive Heart Failure, Essential Hypertension.\n- **Target Symptoms:** Dyspnea on Exertion, Elevated Blood Pressure.\n- **Pharmacological Action & Pathway:** Combines nonselective beta-adrenergic blockade with alpha-1 receptor-mediated peripheral vasodilation.\n- **Known Adverse Reactions & Warnings:** Dizziness, Orthostatic Hypotension.\n- **Evidence & Citations:** FDA-NDA-020297; PMID:8622127; PMID:11434351.",
+    "citations": [
+      "FDA-NDA-020297; PMID:8622127",
+      "PMID:11434351"
+    ]
+  },
+  {
+    "drug_name": "Apixaban",
+    "drug_class": "Direct Oral Anticoagulant (DOAC)",
+    "indications": [
+      "Atrial Fibrillation",
+      "Deep Vein Thrombosis",
+      "Pulmonary Embolism"
+    ],
+    "common_symptoms_treated": [
+      "Lower Limb Swelling",
+      "Palpitations",
+      "Pleuritic Chest Pain"
+    ],
+    "key_side_effects": [
+      "Bruising",
+      "Gastrointestinal Bleed",
+      "Major Bleeding"
+    ],
+    "mechanism_description": "Apixaban belongs to the class of Direct Oral Anticoagulant (DOAC). Mechanism of Action: Directly and reversibly inhibits free and clot-bound Factor Xa, suppressing prothrombinase activity.",
+    "pharmacology_summary": "### Monograph: Apixaban (Direct Oral Anticoagulant (DOAC))\n- **Clinical Indications:** Atrial Fibrillation, Deep Vein Thrombosis, Pulmonary Embolism.\n- **Target Symptoms:** Lower Limb Swelling, Palpitations, Pleuritic Chest Pain.\n- **Pharmacological Action & Pathway:** Directly and reversibly inhibits free and clot-bound Factor Xa, suppressing prothrombinase activity.\n- **Known Adverse Reactions & Warnings:** Bruising, Gastrointestinal Bleed, Major Bleeding.\n- **Evidence & Citations:** FDA-NDA-202155; PMID:21870978; PMID:23447955; PMID:23812891.",
+    "citations": [
+      "FDA-NDA-202155; PMID:21870978",
+      "PMID:23447955",
+      "PMID:23812891"
+    ]
+  },
+  {
+    "drug_name": "Warfarin",
+    "drug_class": "Vitamin K Antagonist",
+    "indications": [
+      "Atrial Fibrillation",
+      "Prosthetic Heart Valve Thrombosis"
+    ],
+    "common_symptoms_treated": [
+      "Irregular Pulse",
+      "Thromboembolism"
+    ],
+    "key_side_effects": [
+      "Severe Hemorrhage",
+      "Warfarin-Induced Skin Necrosis"
+    ],
+    "mechanism_description": "Warfarin belongs to the class of Vitamin K Antagonist. Mechanism of Action: Inhibits vitamin K epoxide reductase (VKORC1), preventing gamma-carboxylation of clotting factors II, VII, IX, and X.",
+    "pharmacology_summary": "### Monograph: Warfarin (Vitamin K Antagonist)\n- **Clinical Indications:** Atrial Fibrillation, Prosthetic Heart Valve Thrombosis.\n- **Target Symptoms:** Irregular Pulse, Thromboembolism.\n- **Pharmacological Action & Pathway:** Inhibits vitamin K epoxide reductase (VKORC1), preventing gamma-carboxylation of clotting factors II, VII, IX, and X.\n- **Known Adverse Reactions & Warnings:** Severe Hemorrhage, Warfarin-Induced Skin Necrosis.\n- **Evidence & Citations:** FDA-NDA-009218; PMID:14966050; PMID:8192667.",
+    "citations": [
+      "FDA-NDA-009218; PMID:14966050",
+      "PMID:8192667"
+    ]
+  },
+  {
+    "drug_name": "Albuterol",
+    "drug_class": "Short-Acting Beta-2 Agonist (SABA)",
+    "indications": [
+      "Asthma",
+      "Chronic Obstructive Pulmonary Disease"
+    ],
+    "common_symptoms_treated": [
+      "Dyspnea",
+      "Shortness of Breath",
+      "Wheezing"
+    ],
+    "key_side_effects": [
+      "Palpitations",
+      "Tachycardia",
+      "Tremor"
+    ],
+    "mechanism_description": "Albuterol belongs to the class of Short-Acting Beta-2 Agonist (SABA). Mechanism of Action: Stimulates beta-2 adrenergic receptors on airway smooth muscle, activating adenylate cyclase and relaxing bronchial smooth muscle.",
+    "pharmacology_summary": "### Monograph: Albuterol (Short-Acting Beta-2 Agonist (SABA))\n- **Clinical Indications:** Asthma, Chronic Obstructive Pulmonary Disease.\n- **Target Symptoms:** Dyspnea, Shortness of Breath, Wheezing.\n- **Pharmacological Action & Pathway:** Stimulates beta-2 adrenergic receptors on airway smooth muscle, activating adenylate cyclase and relaxing bronchial smooth muscle.\n- **Known Adverse Reactions & Warnings:** Palpitations, Tachycardia, Tremor.\n- **Evidence & Citations:** FDA-NDA-019489; PMID:11738517; PMID:15961603; PMID:8482431.",
+    "citations": [
+      "FDA-NDA-019489; PMID:11738517",
+      "PMID:15961603",
+      "PMID:8482431"
+    ]
+  },
+  {
+    "drug_name": "Fluticasone",
+    "drug_class": "Inhaled Corticosteroid",
+    "indications": [
+      "Allergic Rhinitis",
+      "Asthma",
+      "Chronic Obstructive Pulmonary Disease"
+    ],
+    "common_symptoms_treated": [
+      "Airway Inflammation",
+      "Frequent Exacerbations",
+      "Rhinorrhea"
+    ],
+    "key_side_effects": [
+      "Dysphonia",
+      "Epistaxis",
+      "Oral Candidiasis"
+    ],
+    "mechanism_description": "Fluticasone belongs to the class of Inhaled Corticosteroid. Mechanism of Action: Translocates into the nucleus to inhibit transcription factors NF-kB and AP-1, suppressing cytokine synthesis.",
+    "pharmacology_summary": "### Monograph: Fluticasone (Inhaled Corticosteroid)\n- **Clinical Indications:** Allergic Rhinitis, Asthma, Chronic Obstructive Pulmonary Disease.\n- **Target Symptoms:** Airway Inflammation, Frequent Exacerbations, Rhinorrhea.\n- **Pharmacological Action & Pathway:** Translocates into the nucleus to inhibit transcription factors NF-kB and AP-1, suppressing cytokine synthesis.\n- **Known Adverse Reactions & Warnings:** Dysphonia, Epistaxis, Oral Candidiasis.\n- **Evidence & Citations:** FDA-NDA-021433; PMID:9577937; PMID:10724300; PMID:17314337.",
+    "citations": [
+      "FDA-NDA-021433; PMID:9577937",
+      "PMID:10724300",
+      "PMID:17314337"
+    ]
+  },
+  {
+    "drug_name": "Budesonide",
+    "drug_class": "Inhaled / Gut-Targeted Glucocorticoid",
+    "indications": [
+      "Asthma",
+      "Crohn's Disease"
+    ],
+    "common_symptoms_treated": [
+      "Ileal Inflammation",
+      "Nocturnal Cough"
+    ],
+    "key_side_effects": [
+      "Cushingoid Features",
+      "Throat Irritation"
+    ],
+    "mechanism_description": "Budesonide belongs to the class of Inhaled / Gut-Targeted Glucocorticoid. Mechanism of Action: Exerts high local glucocorticoid receptor affinity with extensive first-pass hepatic metabolism limiting systemic bioavailability.",
+    "pharmacology_summary": "### Monograph: Budesonide (Inhaled / Gut-Targeted Glucocorticoid)\n- **Clinical Indications:** Asthma, Crohn's Disease.\n- **Target Symptoms:** Ileal Inflammation, Nocturnal Cough.\n- **Pharmacological Action & Pathway:** Exerts high local glucocorticoid receptor affinity with extensive first-pass hepatic metabolism limiting systemic bioavailability.\n- **Known Adverse Reactions & Warnings:** Cushingoid Features, Throat Irritation.\n- **Evidence & Citations:** FDA-NDA-020929; PMID:10793786; PMID:15846624.",
+    "citations": [
+      "FDA-NDA-020929; PMID:10793786",
+      "PMID:15846624"
+    ]
+  },
+  {
+    "drug_name": "Montelukast",
+    "drug_class": "Leukotriene Receptor Antagonist",
+    "indications": [
+      "Allergic Rhinitis",
+      "Asthma"
+    ],
+    "common_symptoms_treated": [
+      "Bronchoconstriction",
+      "Nasal Congestion"
+    ],
+    "key_side_effects": [
+      "Headache",
+      "Neuropsychiatric Events"
+    ],
+    "mechanism_description": "Montelukast belongs to the class of Leukotriene Receptor Antagonist. Mechanism of Action: Selectively antagonizes cysteinyl leukotriene CysLT1 receptors, blocking LTD4-induced airway smooth muscle spasm.",
+    "pharmacology_summary": "### Monograph: Montelukast (Leukotriene Receptor Antagonist)\n- **Clinical Indications:** Allergic Rhinitis, Asthma.\n- **Target Symptoms:** Bronchoconstriction, Nasal Congestion.\n- **Pharmacological Action & Pathway:** Selectively antagonizes cysteinyl leukotriene CysLT1 receptors, blocking LTD4-induced airway smooth muscle spasm.\n- **Known Adverse Reactions & Warnings:** Headache, Neuropsychiatric Events.\n- **Evidence & Citations:** FDA-NDA-020829; PMID:9876274; PMID:11827474.",
+    "citations": [
+      "FDA-NDA-020829; PMID:9876274",
+      "PMID:11827474"
+    ]
+  },
+  {
+    "drug_name": "Sertraline",
+    "drug_class": "Selective Serotonin Reuptake Inhibitor (SSRI)",
+    "indications": [
+      "Generalized Anxiety Disorder",
+      "Major Depressive Disorder",
+      "Obsessive-Compulsive Disorder",
+      "Post-Traumatic Stress Disorder"
+    ],
+    "common_symptoms_treated": [
+      "Anhedonia",
+      "Excessive Worry",
+      "Flashbacks",
+      "Intrusive Thoughts"
+    ],
+    "key_side_effects": [
+      "Insomnia",
+      "Nausea",
+      "Sexual Dysfunction",
+      "Tremor"
+    ],
+    "mechanism_description": "Sertraline belongs to the class of Selective Serotonin Reuptake Inhibitor (SSRI). Mechanism of Action: Potently inhibits serotonin transporter (SERT) reuptake, enhancing synaptic 5-HT availability.",
+    "pharmacology_summary": "### Monograph: Sertraline (Selective Serotonin Reuptake Inhibitor (SSRI))\n- **Clinical Indications:** Generalized Anxiety Disorder, Major Depressive Disorder, Obsessive-Compulsive Disorder, Post-Traumatic Stress Disorder.\n- **Target Symptoms:** Anhedonia, Excessive Worry, Flashbacks, Intrusive Thoughts.\n- **Pharmacological Action & Pathway:** Potently inhibits serotonin transporter (SERT) reuptake, enhancing synaptic 5-HT availability.\n- **Known Adverse Reactions & Warnings:** Insomnia, Nausea, Sexual Dysfunction, Tremor.\n- **Evidence & Citations:** FDA-NDA-019839; PMID:1603096; PMID:10757755; PMID:12401735; PMID:8601362.",
+    "citations": [
+      "FDA-NDA-019839; PMID:1603096",
+      "PMID:10757755",
+      "PMID:12401735",
+      "PMID:8601362"
+    ]
+  },
+  {
+    "drug_name": "Escitalopram",
+    "drug_class": "Selective Serotonin Reuptake Inhibitor (SSRI)",
+    "indications": [
+      "Major Depressive Disorder",
+      "Panic Disorder"
+    ],
+    "common_symptoms_treated": [
+      "Depressed Mood",
+      "Panic Attacks"
+    ],
+    "key_side_effects": [
+      "Somnolence",
+      "Sweating"
+    ],
+    "mechanism_description": "Escitalopram belongs to the class of Selective Serotonin Reuptake Inhibitor (SSRI). Mechanism of Action: Pure S-enantiomer exhibiting allosteric serotonin transporter binding with high target selectivity.",
+    "pharmacology_summary": "### Monograph: Escitalopram (Selective Serotonin Reuptake Inhibitor (SSRI))\n- **Clinical Indications:** Major Depressive Disorder, Panic Disorder.\n- **Target Symptoms:** Depressed Mood, Panic Attacks.\n- **Pharmacological Action & Pathway:** Pure S-enantiomer exhibiting allosteric serotonin transporter binding with high target selectivity.\n- **Known Adverse Reactions & Warnings:** Somnolence, Sweating.\n- **Evidence & Citations:** FDA-NDA-021323; PMID:12044195; PMID:15055233.",
+    "citations": [
+      "FDA-NDA-021323; PMID:12044195",
+      "PMID:15055233"
+    ]
+  },
+  {
+    "drug_name": "Duloxetine",
+    "drug_class": "Serotonin-Norepinephrine Reuptake Inhibitor (SNRI)",
+    "indications": [
+      "Diabetic Peripheral Neuropathic Pain",
+      "Fibromyalgia",
+      "Major Depressive Disorder"
+    ],
+    "common_symptoms_treated": [
+      "Burning Neuropathic Pain",
+      "Diffuse Musculoskeletal Pain",
+      "Psychomotor Retardation"
+    ],
+    "key_side_effects": [
+      "Constipation",
+      "Dry Mouth",
+      "Nausea"
+    ],
+    "mechanism_description": "Duloxetine belongs to the class of Serotonin-Norepinephrine Reuptake Inhibitor (SNRI). Mechanism of Action: Dual inhibition of neuronal serotonin (SERT) and norepinephrine (NET) reuptake transporters.",
+    "pharmacology_summary": "### Monograph: Duloxetine (Serotonin-Norepinephrine Reuptake Inhibitor (SNRI))\n- **Clinical Indications:** Diabetic Peripheral Neuropathic Pain, Fibromyalgia, Major Depressive Disorder.\n- **Target Symptoms:** Burning Neuropathic Pain, Diffuse Musculoskeletal Pain, Psychomotor Retardation.\n- **Pharmacological Action & Pathway:** Dual inhibition of neuronal serotonin (SERT) and norepinephrine (NET) reuptake transporters.\n- **Known Adverse Reactions & Warnings:** Constipation, Dry Mouth, Nausea.\n- **Evidence & Citations:** FDA-NDA-021427; PMID:15234909; PMID:16140730; PMID:18497676.",
+    "citations": [
+      "FDA-NDA-021427; PMID:15234909",
+      "PMID:16140730",
+      "PMID:18497676"
+    ]
+  },
+  {
+    "drug_name": "Levodopa",
+    "drug_class": "Dopamine Precursor",
+    "indications": [
+      "Parkinson's Disease"
+    ],
+    "common_symptoms_treated": [
+      "Bradykinesia",
+      "Muscle Rigidity",
+      "Resting Tremor"
+    ],
+    "key_side_effects": [
+      "Dyskinesia",
+      "Orthostatic Hypotension",
+      "Visual Hallucinations"
+    ],
+    "mechanism_description": "Levodopa belongs to the class of Dopamine Precursor. Mechanism of Action: Crosses the blood-brain barrier via large neutral amino acid transporter (LAT1) and decarboxylates into dopamine.",
+    "pharmacology_summary": "### Monograph: Levodopa (Dopamine Precursor)\n- **Clinical Indications:** Parkinson's Disease.\n- **Target Symptoms:** Bradykinesia, Muscle Rigidity, Resting Tremor.\n- **Pharmacological Action & Pathway:** Crosses the blood-brain barrier via large neutral amino acid transporter (LAT1) and decarboxylates into dopamine.\n- **Known Adverse Reactions & Warnings:** Dyskinesia, Orthostatic Hypotension, Visual Hallucinations.\n- **Evidence & Citations:** FDA-NDA-016834; PMID:5417436; PMID:11986445; PMID:15610816.",
+    "citations": [
+      "FDA-NDA-016834; PMID:5417436",
+      "PMID:11986445",
+      "PMID:15610816"
+    ]
+  },
+  {
+    "drug_name": "Donepezil",
+    "drug_class": "Acetylcholinesterase Inhibitor",
+    "indications": [
+      "Alzheimer's Disease"
+    ],
+    "common_symptoms_treated": [
+      "Cognitive Decline",
+      "Memory Loss"
+    ],
+    "key_side_effects": [
+      "Bradycardia",
+      "Diarrhea"
+    ],
+    "mechanism_description": "Donepezil belongs to the class of Acetylcholinesterase Inhibitor. Mechanism of Action: Reversibly inhibits acetylcholinesterase, prolonging the action of acetylcholine at central cholinergic synapses.",
+    "pharmacology_summary": "### Monograph: Donepezil (Acetylcholinesterase Inhibitor)\n- **Clinical Indications:** Alzheimer's Disease.\n- **Target Symptoms:** Cognitive Decline, Memory Loss.\n- **Pharmacological Action & Pathway:** Reversibly inhibits acetylcholinesterase, prolonging the action of acetylcholine at central cholinergic synapses.\n- **Known Adverse Reactions & Warnings:** Bradycardia, Diarrhea.\n- **Evidence & Citations:** FDA-NDA-020655; PMID:9786431; PMID:11346369.",
+    "citations": [
+      "FDA-NDA-020655; PMID:9786431",
+      "PMID:11346369"
+    ]
+  },
+  {
+    "drug_name": "Memantine",
+    "drug_class": "NMDA Receptor Antagonist",
+    "indications": [
+      "Alzheimer's Disease"
+    ],
+    "common_symptoms_treated": [
+      "Disorientation",
+      "Severe Cognitive Impairment"
+    ],
+    "key_side_effects": [
+      "Confusion",
+      "Dizziness"
+    ],
+    "mechanism_description": "Memantine belongs to the class of NMDA Receptor Antagonist. Mechanism of Action: Uncompetitive, low-affinity NMDA open-channel blocker that prevents excitotoxic glutamate signaling.",
+    "pharmacology_summary": "### Monograph: Memantine (NMDA Receptor Antagonist)\n- **Clinical Indications:** Alzheimer's Disease.\n- **Target Symptoms:** Disorientation, Severe Cognitive Impairment.\n- **Pharmacological Action & Pathway:** Uncompetitive, low-affinity NMDA open-channel blocker that prevents excitotoxic glutamate signaling.\n- **Known Adverse Reactions & Warnings:** Confusion, Dizziness.\n- **Evidence & Citations:** FDA-NDA-021487; PMID:12672858; PMID:15649964.",
+    "citations": [
+      "FDA-NDA-021487; PMID:12672858",
+      "PMID:15649964"
+    ]
+  },
+  {
+    "drug_name": "Gabapentin",
+    "drug_class": "Alpha-2-Delta Ligand",
+    "indications": [
+      "Focal Seizures",
+      "Neuropathic Pain",
+      "Postherpetic Neuralgia"
+    ],
+    "common_symptoms_treated": [
+      "Allodynia",
+      "Hyperalgesia",
+      "Involuntary Muscle Spasms"
+    ],
+    "key_side_effects": [
+      "Dizziness",
+      "Peripheral Edema",
+      "Somnolence"
+    ],
+    "mechanism_description": "Gabapentin belongs to the class of Alpha-2-Delta Ligand. Mechanism of Action: Binds high-affinity alpha-2-delta auxiliary subunits of voltage-gated calcium channels, attenuating neurotransmitter exocytosis.",
+    "pharmacology_summary": "### Monograph: Gabapentin (Alpha-2-Delta Ligand)\n- **Clinical Indications:** Focal Seizures, Neuropathic Pain, Postherpetic Neuralgia.\n- **Target Symptoms:** Allodynia, Hyperalgesia, Involuntary Muscle Spasms.\n- **Pharmacological Action & Pathway:** Binds high-affinity alpha-2-delta auxiliary subunits of voltage-gated calcium channels, attenuating neurotransmitter exocytosis.\n- **Known Adverse Reactions & Warnings:** Dizziness, Peripheral Edema, Somnolence.\n- **Evidence & Citations:** FDA-NDA-020235; PMID:9847116; PMID:8243144; PMID:9851887.",
+    "citations": [
+      "FDA-NDA-020235; PMID:9847116",
+      "PMID:8243144",
+      "PMID:9851887"
+    ]
+  },
+  {
+    "drug_name": "Pregabalin",
+    "drug_class": "Alpha-2-Delta Ligand",
+    "indications": [
+      "Fibromyalgia",
+      "Neuropathic Pain"
+    ],
+    "common_symptoms_treated": [
+      "Burning Sensation",
+      "Widespread Pain"
+    ],
+    "key_side_effects": [
+      "Ataxia",
+      "Weight Gain"
+    ],
+    "mechanism_description": "Pregabalin belongs to the class of Alpha-2-Delta Ligand. Mechanism of Action: High-affinity modulator of P/Q-type calcium channel trafficking, reducing excitatory spinal neurotransmitter release.",
+    "pharmacology_summary": "### Monograph: Pregabalin (Alpha-2-Delta Ligand)\n- **Clinical Indications:** Fibromyalgia, Neuropathic Pain.\n- **Target Symptoms:** Burning Sensation, Widespread Pain.\n- **Pharmacological Action & Pathway:** High-affinity modulator of P/Q-type calcium channel trafficking, reducing excitatory spinal neurotransmitter release.\n- **Known Adverse Reactions & Warnings:** Ataxia, Weight Gain.\n- **Evidence & Citations:** FDA-NDA-021446; PMID:15234911; PMID:18497679.",
+    "citations": [
+      "FDA-NDA-021446; PMID:15234911",
+      "PMID:18497679"
+    ]
+  },
+  {
+    "drug_name": "Sumatriptan",
+    "drug_class": "5-HT1B/1D Receptor Agonist (Triptan)",
+    "indications": [
+      "Cluster Headache",
+      "Migraine"
+    ],
+    "common_symptoms_treated": [
+      "Periorbital Piercing Pain",
+      "Photophobia",
+      "Unilateral Throbbing Headache"
+    ],
+    "key_side_effects": [
+      "Chest Tightness",
+      "Coronary Vasospasm Risk",
+      "Paresthesia"
+    ],
+    "mechanism_description": "Sumatriptan belongs to the class of 5-HT1B/1D Receptor Agonist (Triptan). Mechanism of Action: Constricts meningeal and cerebral blood vessels via 5-HT1B receptors and inhibits trigeminal sensory nerve activation via 5-HT1D receptors.",
+    "pharmacology_summary": "### Monograph: Sumatriptan (5-HT1B/1D Receptor Agonist (Triptan))\n- **Clinical Indications:** Cluster Headache, Migraine.\n- **Target Symptoms:** Periorbital Piercing Pain, Photophobia, Unilateral Throbbing Headache.\n- **Pharmacological Action & Pathway:** Constricts meningeal and cerebral blood vessels via 5-HT1B receptors and inhibits trigeminal sensory nerve activation via 5-HT1D receptors.\n- **Known Adverse Reactions & Warnings:** Chest Tightness, Coronary Vasospasm Risk, Paresthesia.\n- **Evidence & Citations:** FDA-NDA-020080; PMID:1653139; PMID:18070094; PMID:8243149.",
+    "citations": [
+      "FDA-NDA-020080; PMID:1653139",
+      "PMID:18070094",
+      "PMID:8243149"
+    ]
+  },
+  {
+    "drug_name": "Methotrexate",
+    "drug_class": "Antifolate DMARD",
+    "indications": [
+      "Plaque Psoriasis",
+      "Psoriatic Arthritis",
+      "Rheumatoid Arthritis"
+    ],
+    "common_symptoms_treated": [
+      "Dactylitis",
+      "Erythematous Scaly Plaques",
+      "Joint Pain and Swelling"
+    ],
+    "key_side_effects": [
+      "Bone Marrow Suppression",
+      "Hepatotoxicity",
+      "Stomatitis"
+    ],
+    "mechanism_description": "Methotrexate belongs to the class of Antifolate DMARD. Mechanism of Action: Inhibits dihydrofolate reductase (DHFR) and aminoimidazolecarboxamide ribonucleotide (AICAR) transformylase, leading to extracellular adenosine accumulation.",
+    "pharmacology_summary": "### Monograph: Methotrexate (Antifolate DMARD)\n- **Clinical Indications:** Plaque Psoriasis, Psoriatic Arthritis, Rheumatoid Arthritis.\n- **Target Symptoms:** Dactylitis, Erythematous Scaly Plaques, Joint Pain and Swelling.\n- **Pharmacological Action & Pathway:** Inhibits dihydrofolate reductase (DHFR) and aminoimidazolecarboxamide ribonucleotide (AICAR) transformylase, leading to extracellular adenosine accumulation.\n- **Known Adverse Reactions & Warnings:** Bone Marrow Suppression, Hepatotoxicity, Stomatitis.\n- **Evidence & Citations:** FDA-NDA-011719; PMID:15234909; PMID:10724305; PMID:12702061.",
+    "citations": [
+      "FDA-NDA-011719; PMID:15234909",
+      "PMID:10724305",
+      "PMID:12702061"
+    ]
+  },
+  {
+    "drug_name": "Adalimumab",
+    "drug_class": "Anti-TNF Monoclonal Antibody",
+    "indications": [
+      "Ankylosing Spondylitis",
+      "Crohn's Disease",
+      "Rheumatoid Arthritis",
+      "Ulcerative Colitis"
+    ],
+    "common_symptoms_treated": [
+      "Abdominal Pain",
+      "Bloody Diarrhea",
+      "Inflammatory Back Pain",
+      "Morning Joint Stiffness"
+    ],
+    "key_side_effects": [
+      "Demyelinating Disease Risk",
+      "Injection Site Reaction",
+      "Serious Infection Risk",
+      "Tuberculosis Reactivation Risk"
+    ],
+    "mechanism_description": "Adalimumab belongs to the class of Anti-TNF Monoclonal Antibody. Mechanism of Action: Specifically binds soluble and membrane-bound TNF-alpha, preventing interaction with p55 and p75 cell surface receptors.",
+    "pharmacology_summary": "### Monograph: Adalimumab (Anti-TNF Monoclonal Antibody)\n- **Clinical Indications:** Ankylosing Spondylitis, Crohn's Disease, Rheumatoid Arthritis, Ulcerative Colitis.\n- **Target Symptoms:** Abdominal Pain, Bloody Diarrhea, Inflammatory Back Pain, Morning Joint Stiffness.\n- **Pharmacological Action & Pathway:** Specifically binds soluble and membrane-bound TNF-alpha, preventing interaction with p55 and p75 cell surface receptors.\n- **Known Adverse Reactions & Warnings:** Demyelinating Disease Risk, Injection Site Reaction, Serious Infection Risk, Tuberculosis Reactivation Risk.\n- **Evidence & Citations:** FDA-BLA-125057; PMID:12687508; PMID:16531398; PMID:17298758; PMID:22266897.",
+    "citations": [
+      "FDA-BLA-125057; PMID:12687508",
+      "PMID:16531398",
+      "PMID:17298758",
+      "PMID:22266897"
+    ]
+  },
+  {
+    "drug_name": "Infliximab",
+    "drug_class": "Chimeric Anti-TNF Monoclonal Antibody",
+    "indications": [
+      "Crohn's Disease",
+      "Rheumatoid Arthritis"
+    ],
+    "common_symptoms_treated": [
+      "Fistula Formation",
+      "Synovial Proliferation"
+    ],
+    "key_side_effects": [
+      "Infusion Reactions",
+      "Opportunistic Fungal Infections"
+    ],
+    "mechanism_description": "Infliximab belongs to the class of Chimeric Anti-TNF Monoclonal Antibody. Mechanism of Action: High-affinity binding of soluble and transmembrane TNF-alpha, lysing target cells via complement-dependent cytotoxicity.",
+    "pharmacology_summary": "### Monograph: Infliximab (Chimeric Anti-TNF Monoclonal Antibody)\n- **Clinical Indications:** Crohn's Disease, Rheumatoid Arthritis.\n- **Target Symptoms:** Fistula Formation, Synovial Proliferation.\n- **Pharmacological Action & Pathway:** High-affinity binding of soluble and transmembrane TNF-alpha, lysing target cells via complement-dependent cytotoxicity.\n- **Known Adverse Reactions & Warnings:** Infusion Reactions, Opportunistic Fungal Infections.\n- **Evidence & Citations:** FDA-BLA-103772; PMID:9321530; PMID:10609819.",
+    "citations": [
+      "FDA-BLA-103772; PMID:9321530",
+      "PMID:10609819"
+    ]
+  },
+  {
+    "drug_name": "Pembrolizumab",
+    "drug_class": "Immune Checkpoint Inhibitor (PD-1 Blocker)",
+    "indications": [
+      "Head and Neck Squamous Cell Carcinoma",
+      "Melanoma",
+      "Non-Small Cell Lung Cancer"
+    ],
+    "common_symptoms_treated": [
+      "Hemoptysis",
+      "Malignant Skin Lesion",
+      "Neck Mass"
+    ],
+    "key_side_effects": [
+      "Immune-Mediated Colitis",
+      "Immune-Mediated Pneumonitis",
+      "Thyroiditis"
+    ],
+    "mechanism_description": "Pembrolizumab belongs to the class of Immune Checkpoint Inhibitor (PD-1 Blocker). Mechanism of Action: Selectively binds PD-1 receptor on cytotoxic T-cells, preventing engagement with PD-L1/PD-L2 and reactivating antitumor immunity.",
+    "pharmacology_summary": "### Monograph: Pembrolizumab (Immune Checkpoint Inhibitor (PD-1 Blocker))\n- **Clinical Indications:** Head and Neck Squamous Cell Carcinoma, Melanoma, Non-Small Cell Lung Cancer.\n- **Target Symptoms:** Hemoptysis, Malignant Skin Lesion, Neck Mass.\n- **Pharmacological Action & Pathway:** Selectively binds PD-1 receptor on cytotoxic T-cells, preventing engagement with PD-L1/PD-L2 and reactivating antitumor immunity.\n- **Known Adverse Reactions & Warnings:** Immune-Mediated Colitis, Immune-Mediated Pneumonitis, Thyroiditis.\n- **Evidence & Citations:** FDA-BLA-125514; PMID:25891304; PMID:27718847; PMID:31679945.",
+    "citations": [
+      "FDA-BLA-125514; PMID:25891304",
+      "PMID:27718847",
+      "PMID:31679945"
+    ]
+  },
+  {
+    "drug_name": "Imatinib",
+    "drug_class": "Tyrosine Kinase Inhibitor (BCR-ABL)",
+    "indications": [
+      "Chronic Myeloid Leukemia",
+      "Gastrointestinal Stromal Tumor"
+    ],
+    "common_symptoms_treated": [
+      "Abdominal Mass",
+      "Splenomegaly"
+    ],
+    "key_side_effects": [
+      "Fluid Retention",
+      "Nausea"
+    ],
+    "mechanism_description": "Imatinib belongs to the class of Tyrosine Kinase Inhibitor (BCR-ABL). Mechanism of Action: Competitively binds ATP-binding pocket of BCR-ABL oncoprotein, arresting leukemic cell proliferation.",
+    "pharmacology_summary": "### Monograph: Imatinib (Tyrosine Kinase Inhibitor (BCR-ABL))\n- **Clinical Indications:** Chronic Myeloid Leukemia, Gastrointestinal Stromal Tumor.\n- **Target Symptoms:** Abdominal Mass, Splenomegaly.\n- **Pharmacological Action & Pathway:** Competitively binds ATP-binding pocket of BCR-ABL oncoprotein, arresting leukemic cell proliferation.\n- **Known Adverse Reactions & Warnings:** Fluid Retention, Nausea.\n- **Evidence & Citations:** FDA-NDA-021335; PMID:11287951; PMID:11932470.",
+    "citations": [
+      "FDA-NDA-021335; PMID:11287951",
+      "PMID:11932470"
+    ]
+  },
+  {
+    "drug_name": "Tamoxifen",
+    "drug_class": "Selective Estrogen Receptor Modulator (SERM)",
+    "indications": [
+      "Breast Cancer (ER-Positive)"
+    ],
+    "common_symptoms_treated": [
+      "Breast Lump",
+      "Nipple Discharge"
+    ],
+    "key_side_effects": [
+      "Hot Flashes",
+      "Thromboembolism Risk"
+    ],
+    "mechanism_description": "Tamoxifen belongs to the class of Selective Estrogen Receptor Modulator (SERM). Mechanism of Action: Competitively antagonizes estrogen binding to estrogen receptors in mammary gland tissue.",
+    "pharmacology_summary": "### Monograph: Tamoxifen (Selective Estrogen Receptor Modulator (SERM))\n- **Clinical Indications:** Breast Cancer (ER-Positive).\n- **Target Symptoms:** Breast Lump, Nipple Discharge.\n- **Pharmacological Action & Pathway:** Competitively antagonizes estrogen binding to estrogen receptors in mammary gland tissue.\n- **Known Adverse Reactions & Warnings:** Hot Flashes, Thromboembolism Risk.\n- **Evidence & Citations:** FDA-NDA-017970; PMID:9786435; PMID:10376618.",
+    "citations": [
+      "FDA-NDA-017970; PMID:9786435",
+      "PMID:10376618"
+    ]
+  },
+  {
+    "drug_name": "Omeprazole",
+    "drug_class": "Proton Pump Inhibitor (PPI)",
+    "indications": [
+      "Gastroesophageal Reflux Disease",
+      "Peptic Ulcer Disease",
+      "Zollinger-Ellison Syndrome"
+    ],
+    "common_symptoms_treated": [
+      "Epigastric Pain",
+      "Heartburn",
+      "Severe Hyperacidity"
+    ],
+    "key_side_effects": [
+      "Bone Fracture Risk",
+      "Clostridium difficile Infection Risk",
+      "Hypomagnesemia"
+    ],
+    "mechanism_description": "Omeprazole belongs to the class of Proton Pump Inhibitor (PPI). Mechanism of Action: Covalently binds cysteine residues of H+/K+ ATPase in gastric parietal cells, shutting down basal and stimulated gastric acid production.",
+    "pharmacology_summary": "### Monograph: Omeprazole (Proton Pump Inhibitor (PPI))\n- **Clinical Indications:** Gastroesophageal Reflux Disease, Peptic Ulcer Disease, Zollinger-Ellison Syndrome.\n- **Target Symptoms:** Epigastric Pain, Heartburn, Severe Hyperacidity.\n- **Pharmacological Action & Pathway:** Covalently binds cysteine residues of H+/K+ ATPase in gastric parietal cells, shutting down basal and stimulated gastric acid production.\n- **Known Adverse Reactions & Warnings:** Bone Fracture Risk, Clostridium difficile Infection Risk, Hypomagnesemia.\n- **Evidence & Citations:** FDA-NDA-019810; PMID:2167448; PMID:1709405; PMID:24072879.",
+    "citations": [
+      "FDA-NDA-019810; PMID:2167448",
+      "PMID:1709405",
+      "PMID:24072879"
+    ]
+  },
+  {
+    "drug_name": "Pantoprazole",
+    "drug_class": "Proton Pump Inhibitor (PPI)",
+    "indications": [
+      "Erosive Esophagitis",
+      "Gastroesophageal Reflux Disease"
+    ],
+    "common_symptoms_treated": [
+      "Acid Regurgitation",
+      "Odynophagia"
+    ],
+    "key_side_effects": [
+      "Diarrhea",
+      "Headache"
+    ],
+    "mechanism_description": "Pantoprazole belongs to the class of Proton Pump Inhibitor (PPI). Mechanism of Action: Selective binding to Cys822 of proton pump with low CYP2C19 interaction potential.",
+    "pharmacology_summary": "### Monograph: Pantoprazole (Proton Pump Inhibitor (PPI))\n- **Clinical Indications:** Erosive Esophagitis, Gastroesophageal Reflux Disease.\n- **Target Symptoms:** Acid Regurgitation, Odynophagia.\n- **Pharmacological Action & Pathway:** Selective binding to Cys822 of proton pump with low CYP2C19 interaction potential.\n- **Known Adverse Reactions & Warnings:** Diarrhea, Headache.\n- **Evidence & Citations:** FDA-NDA-020987; PMID:10793789; PMID:12401739.",
+    "citations": [
+      "FDA-NDA-020987; PMID:10793789",
+      "PMID:12401739"
+    ]
+  },
+  {
+    "drug_name": "Amoxicillin",
+    "drug_class": "Aminopenicillin Antibiotic",
+    "indications": [
+      "Acute Otitis Media",
+      "Community-Acquired Pneumonia",
+      "Streptococcal Pharyngitis"
+    ],
+    "common_symptoms_treated": [
+      "Otalgia",
+      "Productive Cough",
+      "Sore Throat"
+    ],
+    "key_side_effects": [
+      "Allergic Anaphylaxis",
+      "Diarrhea",
+      "Maculopapular Rash"
+    ],
+    "mechanism_description": "Amoxicillin belongs to the class of Aminopenicillin Antibiotic. Mechanism of Action: Inactivates penicillin-binding proteins (PBPs) involved in peptidoglycan crosslinking, triggering osmotic bacterial cell lysis.",
+    "pharmacology_summary": "### Monograph: Amoxicillin (Aminopenicillin Antibiotic)\n- **Clinical Indications:** Acute Otitis Media, Community-Acquired Pneumonia, Streptococcal Pharyngitis.\n- **Target Symptoms:** Otalgia, Productive Cough, Sore Throat.\n- **Pharmacological Action & Pathway:** Inactivates penicillin-binding proteins (PBPs) involved in peptidoglycan crosslinking, triggering osmotic bacterial cell lysis.\n- **Known Adverse Reactions & Warnings:** Allergic Anaphylaxis, Diarrhea, Maculopapular Rash.\n- **Evidence & Citations:** FDA-NDA-050542; PMID:6390822; PMID:11520976; PMID:17924869.",
+    "citations": [
+      "FDA-NDA-050542; PMID:6390822",
+      "PMID:11520976",
+      "PMID:17924869"
+    ]
+  },
+  {
+    "drug_name": "Ciprofloxacin",
+    "drug_class": "Fluoroquinolone Antibiotic",
+    "indications": [
+      "Acute Pyelonephritis",
+      "Complicated Urinary Tract Infection",
+      "Infectious Diarrhea"
+    ],
+    "common_symptoms_treated": [
+      "Abdominal Cramps",
+      "Dysuria",
+      "Flank Pain"
+    ],
+    "key_side_effects": [
+      "CNS Toxicity",
+      "QT Prolongation",
+      "Tendon Rupture Risk"
+    ],
+    "mechanism_description": "Ciprofloxacin belongs to the class of Fluoroquinolone Antibiotic. Mechanism of Action: Inhibits bacterial DNA gyrase (topoisomerase II) and topoisomerase IV, causing double-stranded DNA breaks and bactericidal death.",
+    "pharmacology_summary": "### Monograph: Ciprofloxacin (Fluoroquinolone Antibiotic)\n- **Clinical Indications:** Acute Pyelonephritis, Complicated Urinary Tract Infection, Infectious Diarrhea.\n- **Target Symptoms:** Abdominal Cramps, Dysuria, Flank Pain.\n- **Pharmacological Action & Pathway:** Inhibits bacterial DNA gyrase (topoisomerase II) and topoisomerase IV, causing double-stranded DNA breaks and bactericidal death.\n- **Known Adverse Reactions & Warnings:** CNS Toxicity, QT Prolongation, Tendon Rupture Risk.\n- **Evidence & Citations:** FDA-NDA-019537; PMID:2890458; PMID:10587339; PMID:3300588.",
+    "citations": [
+      "FDA-NDA-019537; PMID:2890458",
+      "PMID:10587339",
+      "PMID:3300588"
+    ]
+  },
+  {
+    "drug_name": "Doxycycline",
+    "drug_class": "Tetracycline Antibiotic",
+    "indications": [
+      "Acne Vulgaris",
+      "Community-Acquired Pneumonia",
+      "Lyme Disease"
+    ],
+    "common_symptoms_treated": [
+      "Erythema Migrans",
+      "Fever and Chills",
+      "Inflammatory Papules"
+    ],
+    "key_side_effects": [
+      "Esophageal Irritation",
+      "Photosensitivity",
+      "Tooth Discoloration (Children)"
+    ],
+    "mechanism_description": "Doxycycline belongs to the class of Tetracycline Antibiotic. Mechanism of Action: Reversibly binds the 30S ribosomal subunit, preventing aminoacyl-tRNA association and halting bacterial protein synthesis.",
+    "pharmacology_summary": "### Monograph: Doxycycline (Tetracycline Antibiotic)\n- **Clinical Indications:** Acne Vulgaris, Community-Acquired Pneumonia, Lyme Disease.\n- **Target Symptoms:** Erythema Migrans, Fever and Chills, Inflammatory Papules.\n- **Pharmacological Action & Pathway:** Reversibly binds the 30S ribosomal subunit, preventing aminoacyl-tRNA association and halting bacterial protein synthesis.\n- **Known Adverse Reactions & Warnings:** Esophageal Irritation, Photosensitivity, Tooth Discoloration (Children).\n- **Evidence & Citations:** FDA-NDA-050444; PMID:9208447; PMID:11986449; PMID:17518471.",
+    "citations": [
+      "FDA-NDA-050444; PMID:9208447",
+      "PMID:11986449",
+      "PMID:17518471"
+    ]
+  },
+  {
+    "drug_name": "Azithromycin",
+    "drug_class": "Macrolide Antibiotic",
+    "indications": [
+      "Acute Bacterial Sinusitis",
+      "Community-Acquired Pneumonia"
+    ],
+    "common_symptoms_treated": [
+      "Facial Pain",
+      "Shortness of Breath"
+    ],
+    "key_side_effects": [
+      "Diarrhea",
+      "QT Interval Prolongation"
+    ],
+    "mechanism_description": "Azithromycin belongs to the class of Macrolide Antibiotic. Mechanism of Action: Reversibly binds to 50S ribosomal subunit, preventing peptide translocation during bacterial protein elongation.",
+    "pharmacology_summary": "### Monograph: Azithromycin (Macrolide Antibiotic)\n- **Clinical Indications:** Acute Bacterial Sinusitis, Community-Acquired Pneumonia.\n- **Target Symptoms:** Facial Pain, Shortness of Breath.\n- **Pharmacological Action & Pathway:** Reversibly binds to 50S ribosomal subunit, preventing peptide translocation during bacterial protein elongation.\n- **Known Adverse Reactions & Warnings:** Diarrhea, QT Interval Prolongation.\n- **Evidence & Citations:** FDA-NDA-050670; PMID:8482436; PMID:11738521.",
+    "citations": [
+      "FDA-NDA-050670; PMID:8482436",
+      "PMID:11738521"
+    ]
+  },
+  {
+    "drug_name": "Paxlovid",
+    "drug_class": "Viral Protease Inhibitor",
+    "indications": [
+      "COVID-19"
+    ],
+    "common_symptoms_treated": [
+      "Cough",
+      "Fever",
+      "Loss of Taste or Smell"
+    ],
+    "key_side_effects": [
+      "CYP3A Drug-Drug Interactions",
+      "Dysgeusia (Metallic Taste)",
+      "Elevated Blood Pressure"
+    ],
+    "mechanism_description": "Paxlovid belongs to the class of Viral Protease Inhibitor. Mechanism of Action: Nirmatrelvir potently inhibits SARS-CoV-2 main protease (Mpro/3CLpro); ritonavir acts as a pharmacokinetic booster via CYP3A inhibition.",
+    "pharmacology_summary": "### Monograph: Paxlovid (Viral Protease Inhibitor)\n- **Clinical Indications:** COVID-19.\n- **Target Symptoms:** Cough, Fever, Loss of Taste or Smell.\n- **Pharmacological Action & Pathway:** Nirmatrelvir potently inhibits SARS-CoV-2 main protease (Mpro/3CLpro); ritonavir acts as a pharmacokinetic booster via CYP3A inhibition.\n- **Known Adverse Reactions & Warnings:** CYP3A Drug-Drug Interactions, Dysgeusia (Metallic Taste), Elevated Blood Pressure.\n- **Evidence & Citations:** FDA-EUA-106; PMID:35172054; PMID:35172054; PMID:35472899.",
+    "citations": [
+      "FDA-EUA-106; PMID:35172054",
+      "PMID:35172054",
+      "PMID:35472899"
+    ]
+  },
+  {
+    "drug_name": "Ibuprofen",
+    "drug_class": "Nonsteroidal Anti-inflammatory Drug (NSAID)",
+    "indications": [
+      "Osteoarthritis",
+      "Tension Headache"
+    ],
+    "common_symptoms_treated": [
+      "Constricting Head Pain",
+      "Joint Stiffness"
+    ],
+    "key_side_effects": [
+      "Gastric Ulceration",
+      "Renal Impairment"
+    ],
+    "mechanism_description": "Ibuprofen belongs to the class of Nonsteroidal Anti-inflammatory Drug (NSAID). Mechanism of Action: Nonselectively inhibits cyclooxygenase isoforms COX-1 and COX-2, decreasing prostaglandin E2 (PGE2) synthesis.",
+    "pharmacology_summary": "### Monograph: Ibuprofen (Nonsteroidal Anti-inflammatory Drug (NSAID))\n- **Clinical Indications:** Osteoarthritis, Tension Headache.\n- **Target Symptoms:** Constricting Head Pain, Joint Stiffness.\n- **Pharmacological Action & Pathway:** Nonselectively inhibits cyclooxygenase isoforms COX-1 and COX-2, decreasing prostaglandin E2 (PGE2) synthesis.\n- **Known Adverse Reactions & Warnings:** Gastric Ulceration, Renal Impairment.\n- **Evidence & Citations:** FDA-NDA-017463; PMID:3890889; PMID:8247039.",
+    "citations": [
+      "FDA-NDA-017463; PMID:3890889",
+      "PMID:8247039"
+    ]
+  },
+  {
+    "drug_name": "Celecoxib",
+    "drug_class": "Selective COX-2 Inhibitor",
+    "indications": [
+      "Ankylosing Spondylitis",
+      "Osteoarthritis"
+    ],
+    "common_symptoms_treated": [
+      "Joint Crepitus",
+      "Spinal Rigidity"
+    ],
+    "key_side_effects": [
+      "Cardiovascular Thrombotic Risk",
+      "Fluid Retention"
+    ],
+    "mechanism_description": "Celecoxib belongs to the class of Selective COX-2 Inhibitor. Mechanism of Action: Selectively inhibits cyclooxygenase-2 (COX-2) sparing platelet COX-1, reducing inflammatory prostanoids without gastrointestinal ulceration.",
+    "pharmacology_summary": "### Monograph: Celecoxib (Selective COX-2 Inhibitor)\n- **Clinical Indications:** Ankylosing Spondylitis, Osteoarthritis.\n- **Target Symptoms:** Joint Crepitus, Spinal Rigidity.\n- **Pharmacological Action & Pathway:** Selectively inhibits cyclooxygenase-2 (COX-2) sparing platelet COX-1, reducing inflammatory prostanoids without gastrointestinal ulceration.\n- **Known Adverse Reactions & Warnings:** Cardiovascular Thrombotic Risk, Fluid Retention.\n- **Evidence & Citations:** FDA-NDA-020998; PMID:10499703; PMID:11565522.",
+    "citations": [
+      "FDA-NDA-020998; PMID:10499703",
+      "PMID:11565522"
+    ]
+  },
+  {
+    "drug_name": "Colchicine",
+    "drug_class": "Microtubule Disassembly Inhibitor",
+    "indications": [
+      "Gout Flares",
+      "Pericarditis"
+    ],
+    "common_symptoms_treated": [
+      "Positional Chest Pain",
+      "Severe Podagra"
+    ],
+    "key_side_effects": [
+      "Abdominal Cramping",
+      "Severe Diarrhea"
+    ],
+    "mechanism_description": "Colchicine belongs to the class of Microtubule Disassembly Inhibitor. Mechanism of Action: Binds tubulin heterodimers preventing microtubule polymer assembly, blocking neutrophil chemotaxis and NLRP3 inflammasome activation.",
+    "pharmacology_summary": "### Monograph: Colchicine (Microtubule Disassembly Inhibitor)\n- **Clinical Indications:** Gout Flares, Pericarditis.\n- **Target Symptoms:** Positional Chest Pain, Severe Podagra.\n- **Pharmacological Action & Pathway:** Binds tubulin heterodimers preventing microtubule polymer assembly, blocking neutrophil chemotaxis and NLRP3 inflammasome activation.\n- **Known Adverse Reactions & Warnings:** Abdominal Cramping, Severe Diarrhea.\n- **Evidence & Citations:** FDA-NDA-022352; PMID:20444988; PMID:24072881.",
+    "citations": [
+      "FDA-NDA-022352; PMID:20444988",
+      "PMID:24072881"
+    ]
+  }
+]
